@@ -1,0 +1,17 @@
+{
+    "name": "farzoqe/feedback",
+    "description": "Reusable feedback panel for Laravel apps",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Farzoqe\\Feedback\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Farzoqe\\Feedback\\FeedbackServiceProvider"
+            ]
+        }
+    }
+}
