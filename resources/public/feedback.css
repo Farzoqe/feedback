@@ -1,7 +1,7 @@
 .feedback-panel {
     position: fixed;
     top: 50%;
-    right: -370px;
+    right: -365px;
     transition: .3s ease-in-out;
     transform: translateY(-50%);
 }
