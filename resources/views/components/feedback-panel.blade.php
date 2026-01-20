@@ -1,4 +1,4 @@
-<div class="feedback-panel" id="feedbackPanel">
+<div class="feedback-panel" id="feedbackPanel" style="display: none;">
     <div class="feedback-trigger" onclick="toggleFeedbackPanel()">
         FEEDBACK
     </div>

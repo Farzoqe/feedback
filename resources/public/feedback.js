@@ -10,3 +10,9 @@ async function handleFeedbackSubmit(e) {
     });
     document.getElementById('feedbackSuccessMessage').classList.remove('hidden')
 }
+
+document.addEventListener('DOMContentLoaded', function () {
+    // Code to run when the DOM is ready
+    document.getElementById('feedbackPanel').style.display = 'block';
+
+});
